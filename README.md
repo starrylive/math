@@ -3,3 +3,7 @@ It's more like a review of math I've learnt in college. But aims at helping one 
 
 ## Plan
 update 3 times a week.
+
+## Calculus
+### Functions
+### Limits
