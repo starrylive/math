@@ -79,16 +79,33 @@ Review: P303
 
 $\sum_\limits{i =1}^n(2i) = 2 + 4 + 6+ ...+n$
 
+#### Telescoping series
 
+$\sum_\limits{j = a}^b(f(j) - f(j-1)) = f(b) - f(a-1)$
+
+=> $\sum_\limits{j=1}^n (2j-1) = n^2$ => $\sum_\limits{j=1}^n (j) = \frac{n(n+1)}{2}$
+
+$\sum_\limits{j=1}^n (j^2) = \frac{n(n+1)(2n+1)}{6}$
+
+#### x = vt
+
+![integration](i1.png)
+
+![integration](i2.png)
+
+$\int_a^bf(x)dx = \lim_\limits{mesh\to 0}\sum_\limits{j=1}^nf(c_i)(x_j - x_{j-1})$ P330
+
+$\int_a^bf(x)dx = F(b) - F(a)$
 
 ### Taylor Polynomials, Taylor Series, and Power Series
 
+![Taylor](taylor.jpg)
+
+#### Review
 
 ## Linear algebra
 
 ### Vector
-
-### Matrix
 
 ### Determinant
 
