@@ -17,6 +17,10 @@ Well, that's not cool enough. What I want is to give you some ideas about things
 
 First of all, you should know some "fundamental concepts".
 
+[TOC]
+
+
+
 ## Calculus
 
 ### Functions and Limits
@@ -107,11 +111,29 @@ $\int_a^bf(x)dx = F(b) - F(a)$
 
 ### Vector
 
+$R^2$ $R^n$
+
+![vector](vector.png)
+
+
+
+### Matrix
+
+$A_{ij}$, $A_i$, $A_j$ $I$, $O$
+
+$+ - \times \div$ (P74)
+
+$A^T$, $A^{-1}$
+
 ### Determinant
+
+......
 
 ## Probability
 
 ### Events and their probabilities
+
+
 
 ### Random variables
 
