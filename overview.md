@@ -6,7 +6,7 @@ Let's take a quick view of what we've learnt.
 - applications of math
 
 Well, that's not cool enough. What I want is to give you some ideas about things below:
-- 0101 in computers(How does computers work)
+- 0101 in computers(How does computer work)
 - Proofs sequences logic and graphs(Discrete mathematics)
 - Wave-particle duality(Calculus)
 - Non-negative Matrix Factorization(Linear algebra)
@@ -37,4 +37,9 @@ First of all, you should know some "fundamental concepts".
 ### Determinant
 
 ## Probability
+
+### Events and their probabilities
+
+### Random variables
+
 
