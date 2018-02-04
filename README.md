@@ -3,14 +3,15 @@ It's more like a review of math I've learnt in college. But aims at helping one 
 
 ## Plan
 update 3 times a week.
-- 0101 in computers(How does computer work)
-- Proofs sequences logic and graphs(Discrete mathematics)
-- Wave-particle duality(Calculus)
-- Non-negative Matrix Factorization(Linear algebra)
-- Information theory(Probability)
-- Blockchain(HashTree and Cryptography)
-- Recommendations clustering search ranking and document filtering(Thoughts)
-- Natural language understanding and Digital image processing(Combined)
+- [x] overview
+- [ ] 0101 in computers(How does computer work)
+- [ ] Proofs sequences logic and graphs(Discrete mathematics)
+- [ ] Wave-particle duality(Calculus)
+- [ ] Non-negative Matrix Factorization(Linear algebra)
+- [ ] Information theory(Probability)
+- [ ] Blockchain(HashTree and Cryptography)
+- [ ] Recommendations clustering search ranking and document filtering(Thoughts)
+- [ ] Natural language understanding and Digital image processing(Combined)
 
 
 ## 1st week Review
