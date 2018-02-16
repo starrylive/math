@@ -4,7 +4,7 @@ It's more like a review of math I've learnt in college. But aims at helping one 
 ## Plan
 update 3 times a week.
 - [x] overview
-- [ ] 0101 in computers(How does computer work)
+- [x] 0101 in computers(How does computer work) (sorry for being late for such a long time)
 - [ ] Proofs sequences logic and graphs(Discrete mathematics)
 - [ ] Wave-particle duality(Calculus)
 - [ ] Non-negative Matrix Factorization(Linear algebra)
